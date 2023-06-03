@@ -1,0 +1,6 @@
+Main code is in the leakybucket.cpp run in any IDE with opengl libraries in the include floder.
+GL Files needed gl.h glu.h glut.h
+opengl32 and openglinit32 is dll files are required to run the program
+
+
+This project ii Graphical Implementation of Leaky Bucket algorithm.
